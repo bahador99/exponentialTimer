@@ -1,2 +1,2 @@
 # exponentialTimer
-A countdown timer with exponential growth in counting time 
+A countdown timer with exponential growth in counting rate
