@@ -1,3 +1,4 @@
+live site: https://bahador99.github.io/exponentialTimer/
 # Exponential Timer
 A countdown timer with exponential growth in counting rate
 
